@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing android application/ dynamic web applications.
 - 🌱 I’m currently learning Python,C++
 - 💞️ I’m looking to collaborate on android/ react projects, building custom roms.
-- Full Stack Development.
+- Full Stack Developer. 
 - Have done multiple web projects feel free to raise issue and create pull request.
 - open source enthusiast.
 - 📫 How to reach me [Just drop a mail to gaganagarwal2001@outlookcom or @gmail.com]
